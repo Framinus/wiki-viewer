@@ -1,0 +1,16 @@
+.intro {
+  padding: 20px;
+}
+
+h5 {
+  padding-bottom: 20px;
+}
+
+#searchInput {
+  display: inline-block;
+  width: 300px;
+}
+
+#displayResults {
+  margin: 20px;
+}
